@@ -10,7 +10,7 @@ int main() {
 	const string prodi = "Teknik Informatika";
 	
 	// Variable
-	nim = "231011403759"; // Jika dibuat dengan tipe data int tidak akan tampil sesuai data yang tertera
+	nim = "123456789"; // Jika dibuat dengan tipe data int tidak akan tampil sesuai data yang tertera
 	usia = 18;
 	nama = "Adrian Ahmad Al Zidan";
 	agama = "Islam";
